@@ -1,2 +1,1 @@
-# TD_fastai
-repo suivant les  fastai.course
+td conssacré à fastai
